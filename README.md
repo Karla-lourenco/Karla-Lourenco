@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karla Lourenço</h1>
 <h3 align="center">An engineer with a passion for technology and data analysis for business</h3>
 
-- 🔭 I’m currently working on **Business Intellignece Team Leader**
+- 🔭 I’m currently working on **Business Intelligence Team Leader**
 
 - 🌱 I’m currently learning **Python**
 
